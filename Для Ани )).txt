@@ -1,0 +1,14 @@
+<html>
+	<head>
+			<title>Дайте деняк</title>
+	</head>
+ <body  background= "https://sun9-6.userapi.com/c849128/v849128731/11f2ac/JMpW7wVf_dk.jpg"no-repeat; background-size: 100%;>
+<center><h1><font size="55" color="red">Покупаем мой вок, доставим на машинке</font></h1></center>
+	 <center><img src="https://mp3safe.ru/uploads/thumbs/d744c7317-1.jpg"></center>
+	<embed src="volodya_-_purpurnyi_brabus_muzter.net.mp3" autostart="true"
+hidden="false" loop="true" width="10" height="10" align="bottom"> </embed><br/><br/>
+	  <a href= "magazinnadivane2.github.io">
+<center><h1>Мои контакты</h1><center>
+</a>
+</body>
+</html>
